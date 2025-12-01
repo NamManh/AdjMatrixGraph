@@ -1,4 +1,4 @@
-# AdjMatrixGraph (CSCE146)
+# AdjMatrixGraph-CSCE146
 
 A Java implementation of a graph represented by an adjacency matrix, featuring both depth-first and breadth-first search algorithms.
 
